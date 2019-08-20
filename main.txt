@@ -3,3 +3,9 @@ Hey, this is the project.
 Hello!
 FeatureD
 This is the fourth feature of the Feature-Branch-Example project.
+
+Feature(B):
+Hello World!
+This is Feature B! WOW!
+This is more stuff on Feature B! MORE WOW!
+Feature B is now done! YAYYYYY!
