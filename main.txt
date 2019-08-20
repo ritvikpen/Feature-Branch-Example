@@ -11,9 +11,23 @@ This is Feature B! WOW!
 This is more stuff on Feature B! MORE WOW!
 Feature B is now done! YAYYYYY!
 =======
+<<<<<<< HEAD
 random stuff idk what this is; 
 
 help me;
 
 ap physics makes me late to csa pls dont blame me;
 >>>>>>> FeatureC
+=======
+
+Feature(A)
+Blah; 
+Help;
+Me; 
+
+Hello;
+
+I don't know how to git; 
+feature(a)-commit1 what 
+>>>>>>> FeatureA
+>>>>>>> 2ea1baaca4d1f8e1a53bc40a3367dd08828bc66d
