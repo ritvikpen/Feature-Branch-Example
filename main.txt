@@ -1,6 +1,7 @@
 Hey, this is the project.
 
 Hello!
+<<<<<<< HEAD
 FeatureD
 This is the fourth feature of the Feature-Branch-Example project.
 
@@ -9,3 +10,15 @@ Hello World!
 This is Feature B! WOW!
 This is more stuff on Feature B! MORE WOW!
 Feature B is now done! YAYYYYY!
+=======
+
+Feature(A)
+Blah; 
+Help;
+Me; 
+
+Hello;
+
+I don't know how to git; 
+feature(a)-commit1 what 
+>>>>>>> FeatureA
