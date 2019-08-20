@@ -1,6 +1,7 @@
 Hey, this is the project.
 
 Hello!
+<<<<<<< HEAD
 FeatureD
 This is the fourth feature of the Feature-Branch-Example project.
 
@@ -9,3 +10,10 @@ Hello World!
 This is Feature B! WOW!
 This is more stuff on Feature B! MORE WOW!
 Feature B is now done! YAYYYYY!
+=======
+random stuff idk what this is; 
+
+help me;
+
+ap physics makes me late to csa pls dont blame me;
+>>>>>>> FeatureC
